@@ -1,9 +1,9 @@
-package cmsc256.Projects.Project5;
+package JavaProjects.ParseMathExpression;
 
 import bridges.base.BinTreeElement;
 import java.util.Stack;
 
-public class Project5 {
+public class ParseMathExpression {
 
     // Method to build a parse tree from a given expression
     public static bridges.base.BinTreeElement<String> buildParseTree(String expression) {
