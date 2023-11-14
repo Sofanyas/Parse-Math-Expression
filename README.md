@@ -55,4 +55,4 @@ This project was created by Sofanyas Genene on November 10th, 2022.
 
 ## Acknowledgements
 
-Special thanks to the [bridges.base.BinTreeElement](https://bridgesuncc.github.io/doc/java-api/current/bridges/base/BinTreeElement.html) class for facilitating the construction of the parse tree.
+Special thanks to the [bridges.base.BinTreeElement](http://bridgesuncc.github.io/doc/java-api/2.3.3/html/classbridges_1_1base_1_1_bin_tree_element.html) class for facilitating the construction of the parse tree.
